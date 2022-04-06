@@ -5,8 +5,8 @@ I'm Rafay Hingoro, with a burning passion to potentially construct things that m
 
 ## My Contributions 💻
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafayhingoro&count_private=true&show_icons=true&bg_color=F6F8FA&title_color=5069DF&hide=issues&icon_color=EB445E"/>
-<!-- PRIVATE NOT SHOWING <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafayhingoro&isFork=true&layout=compact"/>-->
+    <img align="center" src="https://github-readme-stats-eight-azure-75.vercel.app/api?username=rafayhingoro&count_private=true&show_icons=true&bg_color=F6F8FA&title_color=5069DF&hide=issues&icon_color=EB445E"/>
+<img align="center" src="https://github-readme-stats-eight-azure-75.vercel.app/api/top-langs/?username=rafayhingoro&isFork=true&layout=compact&count_private=true&hide=javascript,html,blade,scss,less,css"/>
 </p>
 
 😄 may be a visit to https://rafayhingoro.me might give more insights<br>
