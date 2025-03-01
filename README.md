@@ -1,28 +1,21 @@
-### Hi there 👋
+# 🚀 Hey, I'm Rafay Hingoro!  
 
-## Who am I? 🤔
-I'm Rafay Hingoro, with a burning passion to potentially construct things that may come with ease for people around the World Wide Web. I have and will continue to develop phenomenal websites and applications that are user friendly and easy to coordinate around. Being able to provide high quality and hoard security is my main priority when it comes to creating any piece of software.
+### 💻 Software Engineer | Open-Source Enthusiast | Web Dev Geek  
 
-## My Contributions 💻
-<p>
-    <img align="center" src="https://github-readme-stats-eight-azure-75.vercel.app/api?username=rafayhingoro&count_private=true&show_icons=true&bg_color=F6F8FA&title_color=5069DF&hide=issues&icon_color=EB445E"/>
-<img align="center" src="https://github-readme-stats-eight-azure-75.vercel.app/api/top-langs/?username=rafayhingoro&isFork=true&layout=compact&count_private=true&hide=javascript,html,blade,scss,less,css"/>
-</p>
+I love building things that live on the internet—whether it's a slick web app, an open-source tool, or just a fun side project. I’m all about writing **clean, efficient code** and constantly pushing the limits of what’s possible with modern web technologies.  
 
-😄 may be a visit to https://rafayhingoro.me might give more insights<br>
-📫 How to reach me: hello@rafayhingoro.me
-  
-<!--
-**rafayhingoro/rafayhingoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 What I’m Up To:  
+- 🏗️ **Building** scalable, high-performance web apps  
+- 📜 **Writing** clean & maintainable code (because future-me deserves it)  
+- 🎨 **Exploring** new tech stacks, because why not?  
+- 🎯 **Contributing** to open source and sharing knowledge  
 
-Here are some ideas to get you started:
+### 🔥 Currently Geeking Out Over:  
+- 🧠 AI & Machine Learning (because robots are cool)  
+- ⛓️ Blockchain & Web3 (still figuring out if we’re in a simulation)  
+- 🚀 Performance optimization (making things faster = fun)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m always learning, experimenting, and looking for the next exciting challenge. If you’re into building cool things, let’s connect and make something awesome together!  
+
+### 📫 Find me online:  
+[🌐 Website](https://rafayhingoro.me) • [💼 LinkedIn](https://www.linkedin.com/in/rafayhingoro)  
