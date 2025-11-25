@@ -1,21 +1,35 @@
-# 🚀 Hey, I'm Rafay Hingoro!  
+# Hi, I’m Rafay Hingoro 👋
 
-### 💻 Software Engineer | Open-Source Enthusiast | Web Dev Geek  
+### Software Engineer | Web Developer | Open-Source Advocate
 
-I love building things that live on the internet—whether it's a slick web app, an open-source tool, or just a fun side project. I’m all about writing **clean, efficient code** and constantly pushing the limits of what’s possible with modern web technologies.  
+I am a UK-based software engineer who loves building user-friendly, high-performance web applications. I’m passionate about writing clean, maintainable code and contributing to open-source to make the web a richer place.
 
-### 🚀 What I’m Up To:  
-- 🏗️ **Building** scalable, high-performance web apps  
-- 📜 **Writing** clean & maintainable code (because future-me deserves it)  
-- 🎨 **Exploring** new tech stacks, because why not?  
-- 🎯 **Contributing** to open source and sharing knowledge  
+### What I Work On  
+* Building scalable web applications with modern technologies  
+* Architecting reliable systems with efficiency and clarity  
+* Exploring new frameworks and languages to keep pushing myself  
+* Sharing my knowledge through open-source and blog posts  
 
-### 🔥 Currently Geeking Out Over:  
-- 🧠 AI & Machine Learning (because robots are cool)  
-- ⛓️ Blockchain & Web3 (still figuring out if we’re in a simulation)  
-- 🚀 Performance optimization (making things faster = fun)  
+### What I’m Exploring  
+* Transitioning codebases to **Go** — I recently wrote about why I switched from PHP to Go for speed, concurrency, and cleaner code.   
+* **AI** and machine learning — because more smart tools are better tools  
+* **Blockchain / Web3** — there's something exciting about decentralisation  
+* Performance tuning and system scalability — I love fast, efficient software  
 
-I’m always learning, experimenting, and looking for the next exciting challenge. If you’re into building cool things, let’s connect and make something awesome together!  
+### Selected Projects & Experience  
+On my [archive page] I showcase a wide variety of past projects, including:   
+- Websocket Chat using PHP   
+- AI-powered web apps built with Laravel, MySQL, and Python   
+- Legacy / large-scale systems migrated to more maintainable stacks   
 
-### 📫 Find me online:  
-[🌐 Website](https://rafayhingoro.me) • [💼 LinkedIn](https://www.linkedin.com/in/rafayhingoro)  
+I’ve also written insightful blog posts:  
+- *Moving My Code to Go* — my journey switching to Go, and why it really makes a difference.   
+- *React.js – A Javascript Library for Building UI* — a deep dive into React’s architecture and its benefits.   
+
+### Why I Do This  
+I believe software should be **useful, fast, and clean**. I’m always curious, always learning, and always thinking about how to make things better — whether through code, community, or collaboration.
+
+If you are building something innovative, or you want to work together on open-source / web applications, I’d love to talk.
+
+### Find Me Online  
+[My Website](https://rafayhingoro.me) • [LinkedIn](https://www.linkedin.com/in/rafayhingoro) • [GitHub](https://github.com/rafayhingoro)  
